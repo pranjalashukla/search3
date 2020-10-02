@@ -4,7 +4,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int findMedian(int ar1[],
+int getMedian (int ar1[],
 			int ar2[], int n)
 {
 	int i = 0; /* Current index of 
